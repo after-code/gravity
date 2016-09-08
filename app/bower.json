@@ -1,0 +1,17 @@
+{
+  "name": "Gravity",
+  "description": "Javascript Game",
+  "main": "",
+  "authors": [
+    "vasilie"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
